@@ -1,5 +1,4 @@
 ## TMDB QA - Nisrina Athiyya Zain
-----------------
 ## Task yang dikerjakan
 Membuat skenario pengujian  dalam bentuk test case dan bug report:
 1. Ubah bahasa menjadi bahasa indonesia
