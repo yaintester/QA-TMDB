@@ -1,4 +1,4 @@
-## Technical Test QA - Nisrina Athiyya Zain
+## TMDB QA - Nisrina Athiyya Zain
 ----------------
 ## Task yang dikerjakan
 Membuat skenario pengujian  dalam bentuk test case dan bug report:
